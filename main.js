@@ -104,3 +104,4 @@ function displayImages() {
 }
 
 displayImages();
+
