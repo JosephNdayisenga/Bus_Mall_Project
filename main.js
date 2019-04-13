@@ -33,7 +33,7 @@ BusMallImageArray.push(Bag, Banana, Bathroom, Boots, Breakfast, Bubblegum, Chair
 
 
 
-// let create a function that will select a random image from the array
+// let create a function that will select a random image from BusMallImageArray
 
 let randomImage = function () {
     let randomIndex = Math.floor(Math.random() * BusMallImageArray.length);
